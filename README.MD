@@ -1,8 +1,8 @@
 # kilobyte-web
 
-Hi, this is my (neocities)[https://neocities.org] website.<br/>
+Hi, this is my [neocities](https://neocities.org) website.<br/>
 
-You can find it here: (kilobyte-disk.neocities.org)[https://kilobyte-disk.neocities.org]<br/>
+You can find it here: [kilobyte-disk.neocities.org](https://kilobyte-disk.neocities.org)<br/>
 
 Just leaving the source out here if anyone wants to check it out.<br/>
 
