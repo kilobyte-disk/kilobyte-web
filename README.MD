@@ -6,7 +6,13 @@ You can find it here: [kilobyte-disk.neocities.org](https://kilobyte-disk.neocit
 
 Just leaving the source out here if anyone wants to check it out.<br/>
 
+# Supported platforms
+Currently, this is being developed for desktop usage, e.g 16:9 or 4:3 aspect ratio standard definition displays.
+Eventually, mobile will be supported, but it most likely won't happen until I get all the main features I want completed.
+
 # Development
+I'm not accepting pull requests right now, but if you wanted to run this locally,
+just follow the steps below.
 
 Development dependencies:<br/>
 - docker<br/>
