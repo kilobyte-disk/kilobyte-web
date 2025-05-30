@@ -11,8 +11,8 @@ Currently, this is being developed for desktop usage, e.g 16:9 or 4:3 aspect rat
 Eventually, mobile will be supported, but it most likely won't happen until I get all the main features I want completed.
 
 # Development
-I'm not accepting pull requests right now, but if you wanted to run this locally,
-just follow the steps below.
+*I'm not accepting pull requests right now, but if you wanted to run this locally,
+just follow the steps below.*
 
 Development dependencies:<br/>
 - docker<br/>
