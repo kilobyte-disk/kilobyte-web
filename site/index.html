@@ -3,7 +3,7 @@
   <head>
     <script src="js/index.js"></script>
     <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="viewport" content="height=device-height, width=device-width, initial-scale=1.0">
 
     <title>Kilobyte Industries</title>
 
@@ -13,37 +13,38 @@
 
   </head>
   <body>
-    <div class="container">
-      <div class="content_index">
-        <h1>Ready...?</h1>
+    <div class="popup">
+	<h1 class="title_h">Hello!</h1>
+	<p>
+	Welcome to my little slice of the internet! :)<br>
+	Some things you may want to know before you enter:
+	</p>
+	<ul>
+		<li>This site is <b>not</b> mobile-friendly. Sorry!</li>
+		<li>This site is currently under construction, there may be bugs.</li>
+		<li>This site <em>requires</em> JavaScript to function properly.</li>
+	</ul>
 
-        <p></p>
+	<button class="kbutton enterbutton" onclick="OnEnterButtonPress();">Enter</button>
+    </div>
 
-        <p>
-          Welcome to <strong>Kilobyte Industries</strong>!<br><br>
-	  This website is my little slice of the internet; I hope you enjoy :)<br>
-	  However, please note that this site is mostly under construction at the moment,
-	  so things are most likely going to be buggy, and there is probably some broken stuff
-	  floating around at any given time.<br><br>
-	  I also heavily discourage using this site on mobile, as I haven't spent any time
-	  developing specifically for that platform. Sorry for the inconvenience,
-	  I'll eventually get around to it.
+    <div class="blankpage">
+    </div>
 
-	  <br><br>
-
-          <em>This site requires JavaScript!</em>
-        </p>
-
-        <br><br><br>
-
-	<button class="button enterbutton" onclick="OnEnterButtonPress();">Enter</button>
-      
-      </div>
+    <div class="foot">
+      <a href="https://neocities.org">
+        <img class="img_link" src="../assets/images/neocities.png" alt="neocities logo">
+      </a>
 
       <br>
-      <a href="https://neocities.org">
-        <img class="img_link" src="./assets/images/neocities.png" alt="neocities logo">
-      </a>
+
+      <p style="font-size: 18px">
+      (C) 2025 kilobyte-disk<br>
+      The <a href="https://fonts.google.com/specimen/VT323">VT323</a> font was designed by Peter Hull (OFL 1.1)
+      </p>
+
+
+      <a href="https://github.com/kilobyte-disk/kilobyte-web">GitHub</a>
     </div>
   </body>
 </html>
