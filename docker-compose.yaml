@@ -1,0 +1,9 @@
+services:
+  app:
+    build: .
+    container_name: kiloweb-container
+    command:
+    ports:
+      - 8080:80
+    volumes:
+      - ./site/:/usr/local/apache2/htdocs/
