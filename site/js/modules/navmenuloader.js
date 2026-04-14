@@ -4,11 +4,11 @@ function LoadNavmenu()
 
 	navmenu.innerHTML = `
 	    <p class="navp">
-	    <a class="navlink" href="./home.html">HOME</a>
+	    <a class="navlink" href="/page/home.html">/home/kilo</a>
 	    &nbsp; 
-	    <a class="navlink" href="./about.html">ABOUT</a>
-	    &nbsp;
-	    <a class="navlink" href="./blog.html">BLOG</a>
+	    <a class="navlink" href="/page/blog.html">~/blog</a>
+		&nbsp;
+		<a class="navlink" href="/page/museum.html">~/museum</a>
 	    </p>
 	`;
 }
